@@ -46,7 +46,7 @@
 ```
   $ git clone https://github.com/shubhgosalia/Atom-Simulation.git
 ```
-* To Buid project settings
+* To Build project settings
 ```
 Run the Atom_simulation.cbp file
 ```
