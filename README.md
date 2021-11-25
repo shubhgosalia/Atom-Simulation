@@ -6,11 +6,18 @@
   <br>
   Name: Shubh Gosalia
   <br>
-  Roll No.:1911015
+  Roll No.: 1911015
   <br>
   <br>
   Name: Rajeshwar Singh
   <br>
-  Roll No.:1911108
+  Roll No.: 1911108
+</h3>
+<h3 align="center">
+  Course: Computer Graphics & Visualization
+  <br>
+  Faculty: Vaibhav Vasani
+  <br>
+  College: K.J. Somaiya College of Engineering
 </h3>
 
