@@ -31,7 +31,10 @@
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl"/>
   </div>
-  <div align="center">
+<hr>
+<h3 align="center">
+  Scrrenshots of Project
+</h3>
 
    ![ss3](https://user-images.githubusercontent.com/75128988/143415146-8f0ff67b-9178-4575-afe7-4b12d7549f03.JPG)
    ![ss1](https://user-images.githubusercontent.com/75128988/143415520-7a4f7851-5f81-4310-bbd9-0a922c7a29ba.JPG)
