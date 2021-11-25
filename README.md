@@ -17,7 +17,9 @@
 <h3 align="center">
   Course: Computer Graphics & Visualization
   <br>
+  <br>
   Faculty: Vaibhav Vasani
+  <br>
   <br>
   College: K.J. Somaiya College of Engineering
 </h3>
