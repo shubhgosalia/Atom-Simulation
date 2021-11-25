@@ -13,12 +13,11 @@
   <br>
   Roll No.: 1911108
 </h3>
--------------------------------------
-<h3 align="center">
+<h2 align="center">
   Course: Computer Graphics & Visualization
   <br>
   Faculty: Vaibhav Vasani
   <br>
   College: K.J. Somaiya College of Engineering
-</h3>
+</h2>
 
