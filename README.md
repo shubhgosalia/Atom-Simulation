@@ -24,6 +24,5 @@
   College: K.J. Somaiya College of Engineering
 </h3>
 
-https://img.shields.io/badge/C++-Made With-blue.svg?style=flat&logo=c++
-
+https://img.shields.io/badge/<MADE WITH>-<C++>-<COLOR>
 
