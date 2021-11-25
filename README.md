@@ -33,11 +33,9 @@
   </div>
   <div align="center">
 
-  <h3>Screenshots of our project</h3>
    ![ss3](https://user-images.githubusercontent.com/75128988/143415146-8f0ff67b-9178-4575-afe7-4b12d7549f03.JPG)
    ![ss1](https://user-images.githubusercontent.com/75128988/143415520-7a4f7851-5f81-4310-bbd9-0a922c7a29ba.JPG)
    ![ss2](https://user-images.githubusercontent.com/75128988/143415553-85d990b3-dfbf-44b1-a681-53f836e26687.JPG)
    ![ss4](https://user-images.githubusercontent.com/75128988/143415569-77672a49-9752-4b85-9d7d-f43746ed0dcf.JPG)
-  </div>
 
 
