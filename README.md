@@ -41,4 +41,13 @@
    ![ss2](https://user-images.githubusercontent.com/75128988/143415553-85d990b3-dfbf-44b1-a681-53f836e26687.JPG)
    ![ss4](https://user-images.githubusercontent.com/75128988/143415569-77672a49-9752-4b85-9d7d-f43746ed0dcf.JPG)
 
+### Steps to execute the program:<br/>
+* In order to run this program, you need to either download or clone this repository to your machine
+```
+  $ git clone https://github.com/shubhgosalia/Atom-Simulation.git
+```
+* To Buid project settings
+```
+Run the Atom_simulation.cbp file
+```
 
