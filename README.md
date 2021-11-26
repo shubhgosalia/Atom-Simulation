@@ -41,6 +41,13 @@
    ![ss2](https://user-images.githubusercontent.com/75128988/143415553-85d990b3-dfbf-44b1-a681-53f836e26687.JPG)
    ![ss4](https://user-images.githubusercontent.com/75128988/143415569-77672a49-9752-4b85-9d7d-f43746ed0dcf.JPG)
 
+### Scope:<br/>
+<ul>
+  <li> Developed an Atom Simulation that can be dynamically controlled using keyboard commands making it efficient to operate</li>
+  <li>It is a menu driven project that allows a user to see the structure and simulate a given atom</li>
+  <li>It is completely a 2D graphic animation</li>
+</ul>
+
 ### Steps to execute the program:<br/>
 * In order to run this program, you need to either download or clone this repository to your machine
 ```
