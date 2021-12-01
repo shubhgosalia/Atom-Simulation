@@ -33,7 +33,7 @@
   </div>
 <hr>
 <h3 align="center">
-  Scrrenshots of Project
+  Screenshots of Project
 </h3>
 
    ![ss3](https://user-images.githubusercontent.com/75128988/143415146-8f0ff67b-9178-4575-afe7-4b12d7549f03.JPG)
